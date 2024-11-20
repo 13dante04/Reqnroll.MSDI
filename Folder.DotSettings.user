@@ -1,8 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
-  &lt;Assembly Path="C:\Users\1304d\.nuget\packages\reqnroll.microsoft.extensions.dependencyinjection\2.2.1\lib\netstandard2.0\Reqnroll.Microsoft.Extensions.DependencyInjection.ReqnrollPlugin.dll" /&gt;&#xD;
-  &lt;Assembly Path="C:\Users\1304d\.nuget\packages\microsoft.extensions.dependencyinjection\8.0.1\lib\net8.0\Microsoft.Extensions.DependencyInjection.dll" /&gt;&#xD;
-&lt;/AssemblyExplorer&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7c573e44_002D68fd_002D49eb_002D8b0f_002D91689154f772/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Calculator.feature.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;ProjectFile&gt;8CD72457-1E50-A59A-A70B-EADCFD3D72A8/d:Features/f:Calculator.feature.cs&lt;/ProjectFile&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
